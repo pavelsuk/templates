@@ -1,0 +1,4 @@
+# local exceptions
+private*
+**/.private/**
+!private**encrypted

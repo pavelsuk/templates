@@ -1,0 +1,2 @@
+# This folder will contain encrypted config files (if any)
+# that can be eventually stored in github
